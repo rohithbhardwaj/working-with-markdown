@@ -90,10 +90,12 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Rohith Bharadwaj
 
-dcase@nwmissouri.edu
+s534783@nwmissouri.edu
 
-## New Section 
+## New Section ()
+Welcome to Northwest University
+
 
 
