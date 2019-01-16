@@ -97,5 +97,7 @@ s534783@nwmissouri.edu
 ## New Section ()
 Welcome to Northwest University
 
+##My new image
+![Hosted image](https://www.slashfilm.com/wp/wp-content/images/transformers4-bumblebee-shooting.jpg "Bee Image")
 
 
